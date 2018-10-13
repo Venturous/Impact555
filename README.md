@@ -1,3 +1,7 @@
 # Impact555
-
-This repository is for learning
+This is my first experience
+with GITHUB
+!
+!
+!
+!
