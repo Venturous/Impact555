@@ -7,3 +7,4 @@ with GITHUB
 !
 am adaugat
 a doua ne vajnaia vetka
+this is master vetka
