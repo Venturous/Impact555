@@ -5,5 +5,5 @@ with GITHUB
 !
 !
 !
-Iata m-am gandit
-trebuie sa adaug aici ceva
+am adaugat
+a doua ne vajnaia vetka
